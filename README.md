@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9e324d&height=220&section=header&text=Indaiá%20Cerqueira&fontSize=70&fontAlignY=35&animation=fadeIn"  width="100%" />
 
-  ### ⚖️ Bacharela em Adm | 💻 BSI | 🔍 Pesquisadora LGPD
+  ### ⚖️ Bacharela em Adm | 💻 Estudante EstBSI | 🔍 Pesquisadora LGPD
   
   *Quem ensina, aprende; quem aprende, evolui.*
 
@@ -9,11 +9,11 @@
 </div>
 
 ### 👩‍💻 Sobre Mim
-Atuo na intersecção entre gestão e TI, com foco em garantir que a inovação tecnológica caminhe junto com a segurança e a qualidade.
- 🛡️ **Governança & LGPD:** Pesquisando frameworks aplicados ao RH.
- 🧪 **QA & Quality:** Focada em garantir a integridade e eficiência de softwares.
- 📊 **Análise de Dados:** Transformando informação em decisões estratégicas.
- ☕ **Backend:** Desenvolvendo bases sólidas com Java.
+
+- 🛡️ **Governança & LGPD:** Pesquisando frameworks aplicados ao RH.
+- 🧪 **QA & Quality:** Focada em garantir a integridade e eficiência de softwares.
+- 📊 **Análise de Dados:** Transformando informação em decisões estratégicas.
+- ☕ **Backend:** Aprendendo Java | Python
 
 ---
 
