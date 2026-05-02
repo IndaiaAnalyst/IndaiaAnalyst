@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Olá, eu sou a Indaiá! 👋
+![Banner do Perfil](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Indaiá%20Cerqueira&fontSize=80)
 <!--
 **IndaiaAnalyst/IndaiaAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
