@@ -3,13 +3,13 @@
 
   ### ⚖️ Bacharela em Adm | 💻 BSI | 🔍 Pesquisadora LGPD
   
-  *Transformando processos através da tecnologia e governança de dados.*
+  * Quem ensina, aprende; quem aprende, evolui.*
 
   ---
 </div>
 
 ### 👩‍💻 Sobre Mim
-Atuo na intersecção entre gestão e TI, com foco em garantir que a inovação tecnológica caminhe junto com a segurança e a qualidade.
+
 - 🛡️ **Governança & LGPD:** Pesquisando frameworks aplicados ao RH.
 - 🧪 **QA & Quality:** Focada em garantir a integridade e eficiência de softwares.
 - 📊 **Análise de Dados:** Transformando informação em decisões estratégicas.
