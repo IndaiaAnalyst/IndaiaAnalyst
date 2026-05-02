@@ -9,10 +9,10 @@
 </div>
 
 ### 👩🏻‍🎓 Sobre Mim
-🛡️ **Governança & LGPD:** Pesquisando frameworks aplicados ao RH.
-🧪 **QA & Quality:** Focada em garantir a integridade e eficiência.
-📊 **Análise de Dados:** Transformando informação em decisões estratégicas.
-☕ **Backend:** Aprendendo Java | Python
+ 🛡️ **Governança & LGPD:** Pesquisando frameworks aplicados ao RH.
+ 🧪 **QA & Quality:** Focada em garantir a integridade e eficiência.
+ 📊 **Análise de Dados:** Transformando informação em decisões estratégicas.
+ ☕ **Backend:** Aprendendo Java | Python
 
 ---
 
