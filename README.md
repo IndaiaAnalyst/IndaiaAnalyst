@@ -3,26 +3,25 @@
 
   ### ⚖️ Bacharela em Adm | 💻 BSI | 🔍 Pesquisadora LGPD
   
-  * Quem ensina, aprende; quem aprende, evolui.*
+  *Quem ensina, aprende; quem aprende, evolui.*
 
   ---
 </div>
 
 ### 👩‍💻 Sobre Mim
-
 - 🛡️ **Governança & LGPD:** Pesquisando frameworks aplicados ao RH.
 - 🧪 **QA & Quality:** Focada em garantir a integridade e eficiência de softwares.
 - 📊 **Análise de Dados:** Transformando informação em decisões estratégicas.
-- ☕ **Backend:** Desenvolvendo bases sólidas com Java.
+- ☕ **Backend:** Aprendendo Java | Python
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/IndaiaAnalyst?tab=repositories&q=&type=&language=java"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+  <a href="https://github.com/IndaiaAnalyst?tab=repositories&q=&type=&language=python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://github.com/IndaiaAnalyst?tab=repositories"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="https://github.com/IndaiaAnalyst?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
