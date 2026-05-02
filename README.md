@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9e324d&height=220&section=header&text=Indaiá%20Cerqueira&fontSize=70&fontAlignY=35&animation=fadeIn"  width="100%" />
 
-  ### ⚖️ Bacharela em Adm | 💻 BSI | 🔍 Pesquisadora LGPD
+  ### ⚖️ Bacharela em Adm | 💻 Estudante BSI | 🔍 Pesquisadora LGPD
   
   *Quem ensina, aprende; quem aprende, evolui.*
 
