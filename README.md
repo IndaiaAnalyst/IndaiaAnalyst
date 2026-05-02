@@ -8,7 +8,7 @@
   ---
 </div>
 
-### 👩‍💻 Sobre Mim
+### 👩🏻‍🦱 Sobre Mim
 - 🛡️ **Governança & LGPD:** Pesquisando frameworks aplicados ao RH.
 - 🧪 **QA & Quality:** Focada em garantir a integridade e eficiência de softwares.
 - 📊 **Análise de Dados:** Transformando informação em decisões estratégicas.
