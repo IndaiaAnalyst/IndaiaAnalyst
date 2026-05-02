@@ -9,7 +9,7 @@
 </div>
 
 ### 👩‍💻 Sobre Mim
-"Quem ensina, aprende; quem aprende, evolui."
+Atuo na intersecção entre gestão e TI, com foco em garantir que a inovação tecnológica caminhe junto com a segurança e a qualidade.
 - 🛡️ **Governança & LGPD:** Pesquisando frameworks aplicados ao RH.
 - 🧪 **QA & Quality:** Focada em garantir a integridade e eficiência de softwares.
 - 📊 **Análise de Dados:** Transformando informação em decisões estratégicas.
@@ -27,15 +27,11 @@
 
 ---
 
-### 📊 Estatísticas
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IndaiaAnalyst&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndaiaAnalyst&layout=compact&langs_count=7&theme=rose_pine"/>
-</div>
-
----
-
 <div align="center">
   <h3>📫 Vamos conectar?</h3>
   <a href="mailto:indaia.dutra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/indaia-dutra/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/indaiacerqueiradutra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9e324d&height=20&section=footer" width="100%"/>
+</div>
