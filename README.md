@@ -1,13 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=250&section=header&text=Indaiá%20Cerqueira&fontSize=70&animation=fadeIn&fontAlignY=35"  width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9e324d&height=220&section=header&text=Indaiá%20Cerqueira&fontSize=70&fontAlignY=35&animation=fadeIn"  width="100%" />
+
+  ### ⚖️ Bacharela em Adm | 💻 BSI | 🔍 Pesquisadora LGPD
+  
+  *Transformando processos através da tecnologia e governança de dados.*
+
+  ---
 </div>
 
 ### 👩‍💻 Sobre Mim
-Sou **Bacharela em Administração** e atual graduanda em **Sistemas de Informação**. O meu foco é a intersecção entre gestão e tecnologia, com ênfase em:
-- ⚖️ **Governança e LGPD** (Pesquisando frameworks aplicados ao RH)
-- 🧪 **QA & Qualidade de Software**
-- 📊 **Análise de Dados**
-- ☕ **Desenvolvimento Java** (Explorando estruturas de dados)
+"Quem ensina, aprende; quem aprende, evolui."
+- 🛡️ **Governança & LGPD:** Pesquisando frameworks aplicados ao RH.
+- 🧪 **QA & Quality:** Focada em garantir a integridade e eficiência de softwares.
+- 📊 **Análise de Dados:** Transformando informação em decisões estratégicas.
+- ☕ **Backend:** Desenvolvendo bases sólidas com Java.
 
 ---
 
@@ -22,15 +28,14 @@ Sou **Bacharela em Administração** e atual graduanda em **Sistemas de Informa�
 ---
 
 ### 📊 Estatísticas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IndaiaAnalyst&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndaiaAnalyst&layout=compact&langs_count=7&theme=buefy"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IndaiaAnalyst&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndaiaAnalyst&layout=compact&langs_count=7&theme=rose_pine"/>
+</div>
 
 ---
 
-### 📫 Vamos conectar?
-<p align="left">
-<a href="mailto:SEU-EMAIL@AQUI.COM"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="LINK-DO-TEU-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
+<div align="center">
+  <h3>📫 Vamos conectar?</h3>
+  <a href="mailto:indaia.dutra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/indaia-dutra/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
